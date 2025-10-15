@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Name]
+### 👋 Hi, I'm Ismail
 
 I'm a civil engineer focusing on data-driven applications in tunneling and geotechnics.  
 Currently exploring how machine learning can improve TBM performance and ground behavior analysis.
